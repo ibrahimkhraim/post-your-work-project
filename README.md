@@ -1,5 +1,5 @@
 # post-your-work-project
-Posting My Work Project Using GitHub
+<h4>Posting My Work Project Using GitHub</h4>
 ## Information about how to use your project
 <h4>Cloned the repository from GitHub to the local machine</h4>
 <h4>Added our bikeshare project files into the local repository</h4>
