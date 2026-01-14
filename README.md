@@ -7,3 +7,5 @@
 <h4>Staged the changes to prepare them for committing</h4>
 <h4>Committed the changes with descriptive messages</h4>
 <h4>Pushed the commits to the remote GitHub repository</h4>
+<h4>Created a branch named documentation</h4>
+<h4>Switched to the documentation</h4>
