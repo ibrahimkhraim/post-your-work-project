@@ -3,7 +3,7 @@
 ## Information about how to use your project
 <h4>Cloned the repository from GitHub to the local machine</h4>
 <h4>Added our bikeshare project files into the local repository</h4>
-<h4>Created a .gitignore file (bikeshare_2.gitignore) to exclude data files from being tracked</h4>
+<h4>Added a .gitignore to exclude CSV data files</h4>
 <h4>Bikeshare Project...
   In this project, I have used Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. I have wrote a code to import the data and answer interesting questions about it by computing descriptive statistics. I have also wrote a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
